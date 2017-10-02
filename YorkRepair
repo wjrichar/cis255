@@ -1,0 +1,207 @@
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+	 
+		<title>York Repair</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header  id="header" class="alt">
+						<h1><a href="index.html">York Repair</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="index.html">Home</a></li>
+								
+								<li><a href="#">Log In</a></li>
+								<li><a href="#">Sign Up</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<div class="logo"><span class="icon fa-wrench"></span></div>
+							<h2>Repair Zone</h2>
+							<p>Servo Motor and Industrial Electronics Experts since 1971 <a href="http://www.repairzone.com"></a></p>
+						</div>
+					</section>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+
+						<!-- One -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/Building PIC for eBay.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Let YORK help you get your machine Up and Running!</h2>
+										<p>At York, we offer a number of industrial repair solutions that decrease your downtime and save you money.  
+										Like our predictive maintenance services, to ensure your equipment operates safely and functions properly.  
+										Like our Electric Motor Repair service, with 44+ years of experience, Large Motor Repair included, we do what most cannot.  
+										Like our industry leading Servo Motor Repair service, with over 10,000 servo's repaired!   </p>
+										<a href="#" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two" class="wrapper alt spotlight style2">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/ron and team.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Living Up To Our Standards</h2>
+										<p>We believe that attention to the little 
+										things makes the greatest difference, especially when it comes to caring for our customers. This care begins with investing in our team. 
+										Every member of our staff—from administration to technicians—receives ongoing training to continually advance their skills and knowledge base, 
+										because every one of us has a hand in making our customer’s experience exceptional.</p>
+										<a href="#" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three" class="wrapper spotlight style3">
+								<div class="inner">
+									<a href="#" class="image"><img  src="images/brother and steve - paint.png" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Learning Center</h2>
+										<p>Learn how YORK can help!  Our Learning Center shows you the ways we can support your plant and the machinary in your process to keep you running longer, and efficiently.  Click on one of the links above to explore.</p>
+										<a href="#" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+
+						<!-- Four -->
+							<section id="four" class="wrapper alt style1">
+								<div class="inner">
+									<h2 class="major">Services</h2>
+									<p>.</p>
+									<section class="features">
+										<article>
+											<a href="#" class="image"><img  src="images/REDServoRepair[1].jpg" alt="" /></a>
+											<h3 class="major">Servo Motor Repair</h3>
+											<p>Allen Bradley Servo Motor Repair
+											<p>Fanuc Servo Motor Repair</p>
+											<p>Indramat Servo Motor Repair</p>
+											<p>Yaskawa Servo Motor Repair</p>
+											<p>Siemens Servo Motor Repair</p>
+											<p>Modicon Servo Motor Repair</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img  src="images/Brody.jpg" alt="" /></a>
+											<h3 class="major">Industrial Motor Repair</h3>
+											<p>Servo Drive Repair</p>
+											<p>Spindle Drive Repair	</p>					
+											<p>Servo Amplifier Repair</p>
+											<p>Servo Power Supply Repair</p>
+											<p>CRT Monitor Repair</p>
+											<p>Variable Frequency Drive Repair</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/Robots, Monitors, Allen Bradley_3753.jpg" alt="" /></a>
+											<h3 class="major">Electric Motor Repair</h3>
+											<p>Large Motor Repair</p>
+											<p>DC Motor Repair</p>
+											<p>Speciality Motor Repair</p>
+											<p>Winding Capabilities</p>
+											<p>Authorized Warranty Repair</p>
+											<p>New Product Sales</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/Large Motor work.jpg" alt="" /></a>
+											<h3 class="major">General Industrial Repair</h3>
+											<p>Pump Repair</p>
+											<p>Gearbox Repair</p>
+											<p>Eddy Current Clutch Repair</p>
+											<p>Dynamatic Authorized Dealer</p>
+											<p>Machining Capabilities</p>
+											<p>Welder Repair</p>
+											<p>Generator Repair</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+									</section>
+									<ul class="actions">
+										<li><a href="#" class="button">Browse All</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</section>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="inner">
+							<h2 class="major">Get in touch</h2>
+							<p>Contact us with any questions or to get a quote on a repair.</p>
+							<form method="post" action="#">
+								<div class="field">
+									<label for="name">Name</label>
+									<input type="text" name="name" id="name" />
+								</div>
+								<div class="field">
+									<label for="email">Email</label>
+									<input type="email" name="email" id="email" />
+								</div>
+								<div class="field">
+									<label for="message">Message</label>
+									<textarea name="message" id="message" rows="4"></textarea>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+							<ul class="contact">
+								<li class="fa-home">
+									YorkRepair<br />
+									611 Andre St <br />
+									Bay City, MI 48706 
+								</li>
+								<li class="fa-phone">(989) 684-7460</li>
+								
+							</ul>
+							<ul class="copyright">
+								<li>&copy; York Repair Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
